@@ -1,4 +1,4 @@
-name: cbm_project1_env
+name: genomeindxeraligner
 channels:
   - bioconda
   - defaults
