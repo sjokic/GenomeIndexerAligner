@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 11.10.20 20:35
-# @Authors  : Chenxi-Nie / Guillaume-Thiry
-# @E-mails    ：chenie@student.ethz.ch / gthiry@student.ethz.ch
+# @Authors  : Chenxi N. / Guillaume T.
 # @FileName: bwa.py
 
 
