@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 23.10.20
-# @Authors  : Chenxi-Nie / Guillaume-Thiry
-# @E-mails    ：chenie@student.ethz.ch / gthiry@student.ethz.ch
+# @Authors  : Chenxi N. / Guillaume T.
 # @FileName: compression.py
 
 ## IMPORT
