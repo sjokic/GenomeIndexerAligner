@@ -3,7 +3,6 @@
 # @Author  : Guillaume T.
 # @Updater : Chenxi N.
 # @FileName: bwt_linear_time.py
-# @E-mail    ：gthiry@student.ethz.ch / Chenie@student.ethz.ch
 
 # Constructing Burrows Wheeler Transform
 # in O(n) time
