@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 29.10.20 11:21
-# @Author  : Guillaume Thiry
+# @Author  : Guillaume T.
 # @FileName: bwt_linear_time.py
-# @E-mail    ：gthiry@student.ethz.ch
 
 # Implementing a Suffix Array construction in linear time
 # Reference article : Linear Work Suffix Array Construction
