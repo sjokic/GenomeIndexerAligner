@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 29.10.20 11:21
-# @Author  : Guillaume Thiry
-# @Updater : Chenxi Nie
+# @Author  : Guillaume T.
+# @Updater : Chenxi N.
 # @FileName: bwt_linear_time.py
 # @E-mail    ：gthiry@student.ethz.ch / Chenie@student.ethz.ch
 
