@@ -183,7 +183,7 @@ def cigar(query, target):
                     cigar += str(mismatch_count)
                     cigar += 'X'
                 elif(insertion_count > 0):
-                    cigar += str(deletion_count)
+                    cigar += str(insertion_count)
                     cigar += 'I'
                 match_count = 0
                 mismatch_count = 0
@@ -201,7 +201,7 @@ def cigar(query, target):
         cigar += str(insertion_count)
         cigar += 'I'
 
-    elif(mismatch_count > 0):
+    elif(deletion_count > 0):
         cigar += str(deletion_count)
         cigar += 'D'
 
